@@ -2,8 +2,7 @@
 The Accounting behind Odoo
 ==========================
 
-This page summarises the way Odoo deals with typical accounts and
-transactions.
+Esta página resume a forma como Odoo lida com contas típicas e transações.
 
 Double-entry bookkeeping
 ========================
