@@ -136,8 +136,4 @@ average price, LIFO (for countries allowing it) and FIFO.
 Easy retained earnings
 ======================
 
-Retained earnings is the portion of income retained by your
-business. Odoo automatically calculates your current year earnings in
-real time so no year-end journal or rollover is required.  This is
-calculated by reporting the profit and loss balance to your balance
-sheet report automatically.
+Lucros retidos é a parcela do lucro retido pelo seu negócio. Odoo calcula automaticamente os seus ganhos do ano corrente em tempo real para que não é necessário um jornal de fim de ano ou capotamento. Este valor é calculado por meio de relatórios de ganhos e saldo de prejuízo para o seu relatório de balanço automaticamente.
